@@ -2,9 +2,9 @@
 
 *A collection of useful docs for building web3*
 
-Wether you are a developer, founder, user, miner, degen, ape, customer, inverstor or any other fairytale creature roaming the web3 Cosmos, you might find this collection of documents very useful. 
+Wether you are a developer, founder, user, miner, degen, ape, customer, inverstor or any other fairytale creature roaming the web3 universe, you might find this collection of documents very useful. 
 
-To suggest adding a doc, open an [issue](https://github.com/citizen-cosmos/library/issues), submit a [PR](https://github.com/citizen-cosmos/library/pulls) or join our [Disocrd server](https://discord.gg/X4Dc49byGw) and talk to us directly. 
+To suggest adding a doc, open an [issue](https://github.com/citizenweb3/library/issues), submit a [PR](https://github.com/citizenweb3/library/pulls). 
 
 ## The list
 
