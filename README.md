@@ -1,6 +1,8 @@
-# The Web3 Library
+# The Web3 Society
 
-*A collection of useful docs for building web3*
+[Join Community](https://t.me/web_3_society)
+
+*A place for must have connections, docs, tools and guides for building web3*
 
 Wether you are a developer, founder, user, miner, degen, ape, customer, inverstor or any other fairytale creature roaming the web3 universe, you might find this collection of documents very useful. 
 
