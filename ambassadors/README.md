@@ -13,14 +13,15 @@ As part of Citizen Cosmos, we run an ambassador program for over 12 months. The 
 - validator shilling
 - validator info shilling
 - web3 society telegram channel shilling 
-- web3 society telegram content
+- web3 society telegram content. Activity is more importnat here than anythign else.
 
 ### Web3 society ambassador incentives:
 - Payment in tokens of availability end of month from one of CW3 validators nodes
 - Make a vault with basket of tokens for validator available. Use for sponsoring paid activities by ambassadors + bonuses (future control via dao)
 - Create second DeFi vault (dao control)
 - % for delegators - how? Input a memo when delegating? Magic txs?
-- bonuses for other activities (future merch or Decentraland activity)
+- bonuses for other activities (future merch or Decentraland activity) (help with giveaways, events, etc)
+- Future DAO token bonuses
   
 ##### Dynamic reward levels:
 A) Level 1, 0-45:
@@ -29,7 +30,7 @@ A) Level 1, 0-45:
 3. Add related content to web3 society telegram channel (amount?)
 
 B) Level 2, 45-85:
-1. 3-4 unique memes per month
+1. 2-3 original (not copied or reposted) memes per month. Can be AI generated
 2. Spread around social media at own discretion, but publicly verifiable if needed
 3. Extra / Additional provable twitter engagement, with mentions, etc
 
@@ -40,10 +41,10 @@ C) Level 3, 85-125:
 4. At least one meaningful Quora podcast related post per month
 
 D) Level 4, 125-200:
-1. Other activities. Individual bonuses. I.e. own telegram channel with auditory shilling our content in own way. TikTok or YouTube channel referencing us, etc. Medium / Mirror XYZ / Hacker news articles based on our content. How many?
+1. Other activities. Individual bonuses. I.e. own telegram channel with auditory shilling our content in own way (i.e. transcript summary / translation). TikTok or YouTube channel referencing us, etc. Medium / Mirror XYZ / Hacker news articles based on our content. Amounts? 
 
 ### Tasks
-- Name
+- Name: web3 squires?
 - Logo
 - Telegram channel order
 - Think of 9 community roles
