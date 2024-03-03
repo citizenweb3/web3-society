@@ -56,5 +56,4 @@ D) Level 4, 125-200:
 - Story preparation (foundation tasks, description, some content, characters images)
 - Ambassador vault
 - DAO
-- NFTs
-- Cashback staking and other token incentives such as aquiring cw3 merch
+- NFTs, with cw3 utilty, such as cashback staking and merch aquisition
