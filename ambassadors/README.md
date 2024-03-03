@@ -27,7 +27,7 @@ As part of Citizen Cosmos, we run an ambassador program for over 12 months. The 
 A) Level 1, 0-45:
 1. 2 tweets per week with interaction 
 2. 2 comments per week under others people's posts (influencers? devs?)
-3. Add related content to web3 society telegram channel (amount?)
+3. Add relavant content to web3 society telegram channel  | THIS IS A MUST - WIHTOUT THIS POINT COMPLETED, YOU WILL NOT QUALIFY FOR ANY REWARDS | 
 
 B) Level 2, 45-85:
 1. 2-3 original (not copied or reposted) memes per month. Can be AI generated
@@ -44,7 +44,7 @@ D) Level 4, 125-200:
 1. Other activities. Individual bonuses. I.e. own telegram channel with auditory shilling our content in own way (i.e. transcript summary / translation). TikTok or YouTube channel referencing us, etc. Medium / Mirror XYZ / Hacker news articles based on our content. Amounts? 
 
 ### Tasks
-- Name: web3 squires?
+- Name: web3 housekeeping / web3 squires
 - Logo
 - Telegram channel order
 - Think of 9 community roles
@@ -57,5 +57,4 @@ D) Level 4, 125-200:
 - Ambassador vault
 - DAO
 - NFTs
-- Merch launch by CW3 (not ambassador related)
-- Cashback staking and other token incentives
+- Cashback staking and other token incentives such as aquiring cw3 merch
