@@ -20,3 +20,5 @@ Here is a proposed, bi-weekly, content plan:
 - Friday: Interesting web3 events: hackathons, etc (either 1 or an overview)
 - Saturday: White papers and other interesting research papers
 - Sunday: History of money 
+
+* If at any day, the person making a post, does not possess the required content (i.e. no good hardware content to share on Thursday), it may be substituted with a questionnaire on the same topic (i.e. what's the most secure web3 wallet?) 
