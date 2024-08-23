@@ -12,7 +12,7 @@ To suggest adding a doc, open an [issue](https://github.com/citizenweb3/library/
 
 ## The list
 
-- [Baremetal Validator Handbook]()
+- [Baremetal Validator Handbook](https://bvc.citizenweb3.com/)
 - [How to Build a Community: Guide for Startups](https://tribally.app/guide/)
 - [The Inside Story of the CryptoKitties Congestion Crisis](https://consensys.net/blog/news/the-inside-story-of-the-cryptokitties-congestion-crisis/)
 - [The Promise and Paradox of Decentralization](https://urbit.org/blog/2021-11-18-the-promise-and-paradox-of-decentralization)
