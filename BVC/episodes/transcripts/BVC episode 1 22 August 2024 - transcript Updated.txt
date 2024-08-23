@@ -1,0 +1,382 @@
+- BVC: https://bvc.citizenweb3.com/
+- TG chat: https://t.me/web_3_society/1151
+- Staking: https://www.citizenweb3.com/staking
+
+Episode 1:
+
+Citizen Web3 (00:28.12)
+Can you hear me, Mistyq? HiHi.
+
+Can you do like a thumb up if you can hear me?
+
+Citizen Web3 (00:40.83)
+Hello, hello, hello, hello, hello. Okay.
+
+Citizen Web3 (00:53.006)
+Can you say something? You should be able to speak now. hi. There we go. Perfect. Perfect. Don't know where to do the sub. Okay. Thank you. And how are you? Good? Yeah, good. How are you? Good. I'm okay. I don't think there is going to be many people, but let's see. Let's see who jumps in. I would like...
+
+Hello, bro. What's up? Slowly starting. If you anybody, well, I'm gonna give like a intro in five minutes and probably a bit more people join. But for now, I'll just chat with whoever is here. Yeah, if you guys, any of you want to talk, just press the talk button because the idea is for everyone to share. But yeah.
+
+There should be like about, I think, 10, 15 different validators and a couple of more teams like the guys from Horcrux. There's a couple of other people who are joining in from some bare metal validators. Let's hope they make it because I think there some upgrade that is also ongoing in Cosmos. 
+
+Yeah, yeah, I saw that. Hey, Sheldon. Yeah, think it is. So, but I don't think it should be a problem. I think like, let's see, let's see. I'm going to still
+
+For people who are joining in, Sheldon, hi, nice to see you again today. And everybody else also, hi, hi, hi, hi, hi. So people, just giving it time for now for people to join in. So nothing's starting yet. I'm gonna find some maybe some song or some music maybe for two, three minutes to play. So you don't have to listen to my annoying voice for three minutes.
+
+By the way, if everybody wants to talk, the idea is for people just raise your hand and yeah, we can talk. So let me just find some kind of tune to put for three minutes. Oh my God, can't believe.
+
+Citizen Web3 (03:09.582)
+Put some instrumental maybe. I've got it, it, I've got it, I've done it. I think I've done it. I'm gonna put the first thing that I can find on my iPad for three minutes. Guys, for everybody joining in, I'm gonna give it two, three more minutes for people to join. So I'm just gonna give it a little bit of sound for like three, four minutes while people are joining in and then I'll start talking. So two more minutes guys, thank you.
+
+Citizen Web3 (04:30.097)
+I still a couple of minutes to let people join in because I see more people joining so I'm gonna give it a couple of more minutes guys. Thank you.
+
+Citizen Web3 (05:03.138)
+Guys, I see more people raising hands to speak. Please do while I'm waiting for a couple of more people. I'm gonna give it one more minute. If you guys wanna talk during the thing, please raise your hands. One more minute of music, guys, sorry.
+
+Citizen Web3 (05:45.23)
+Okay, I think I'm gonna start slowly guys to talk. More people join and the music is nice and fun. Next time we can talk also about the format and next time to put it for longer than two minutes. Once again, for people who are joining, this is meant to be like an interactive call, so to speak, or space. So if you do wanna say something or if you think you will have something to say, please raise your hand and I'm just gonna approve.
+
+So I'm going to slowly start with this introducing what the plan is, why I want to do this, and who I am, and what's the idea here. Because I invited several of you personally or somebody from my team. So here's the idea. So one second, I can see one more hand. Let me just approve this. There we go, Triggs. Let me just approve you.
+
+So yeah, so basically the idea is to create like a place of interest for bare metal and self -hosted validators. As most of you probably know here, we're at Citizen Web 3. We migrated to self-hosting and during the last half a year while we were doing the initial migration, we learned a lot of things that are amazing.
+
+And we realized that other validators over across every single ecosystems are having the same problems. So the idea is to sort of gather everybody together. And we started this in the Namada Discord, and we saw that there was some interest and people invalidators saying, yeah, I would love to share what's happening, I don't know, with the issues I'm having and talk about possible solutions. So basically what this is, is not so much to attract attention from outside listeners who are not interested in validation. I'm not planning to, I am planning to take the recording after we talk and try to spread it in some places, but my goal here is every five or six weeks or so is to have, I don't know, like a hangout where people can just come, I don't know, talk about the common issues they having and then that's it. So basically that's it. And...
+
+Citizen Web3 (08:00.216)
+I don't know if I should talk about Web3 Society. I don't think so, because it's got nothing to do with it. I'm organizing it from Web3 Society and not from Citizen Web3, because, sorry, I'm just seeing a comment somewhere that I'm not heard very well. And if I'm not, guys, it was before, okay. Just because, forget it. So anyways, guys, I'm gonna start talking about why the...
+
+why we all gathered here. And the first thing I would propose is the people who have already had the balls, I'm gonna, you know, guys, I'm gonna be with a sense of humor, so sorry. To raise their hands, feel free to just like cut into me and propose any topics of discussion for today. One of the things I had in mind was like, know, was fuck ups and mistakes that we kinda were doing while we were setting up.
+
+that I can talk about, course. For example, when we first started the migration, even if you understand computing and you understand IT and architectures, you don't think of the small things. So for example, I know Bro is here from Bro and Bro, and he helped us a lot. And some of the things for us were hilarious. For example, we would, and we did this mistake already a couple of times.
+
+So for example, the first servers we ordered, now nobody told us that disks, that when you order disks, they have to go into a special pocket. And even when you watch the videos, you don't know about those things. So it's like those tiny things. So then you start to find out about cables and then you start to find out that, okay, you special NVME cables with certain type of servers, enterprise-grade servers, of course, for those disks to work and to have proper speeds.
+
+So for example, this could be one of the topics I could talk about easily because we have in our setup utilize also like a failover and starlink. And we're still having a lot of problems with it, a lot of problems. It's a pain in the ass to set up. So we could talk about that, for example, if anybody wants to. I'm gonna make a pause here and see if anybody wants to also propose something. And that would be also very helpful to me guys. I'm bit nervous, sorry.
+
+Citizen Web3 (10:22.67)
+So I have question, like if anyone has experience, so there are some providers like Akash where you can host nodes and other validators even, right? So I wanted to have understanding of like how safe are those and how easy are the differences between those. It's a good... If I'm understanding your question correctly, so this is actually a good question, something I cannot speak too much about, but maybe we can ask actually somebody who's already doing it.
+
+And do things like, and it's a pretty good fucking question in my opinion, are things like Akash, like decentralized networks where one can launch nodes, qualify as self hosting and bare metal? Now I have an opinion, but I don't want to jump straight away personally. Maybe someone who already, who is running Akash nodes, is there anybody here who runs Akash nodes guys? Maybe raise a hand, who wants to share something? No?
+
+Okay, if guys you do in one or two minutes, please do raise your hands and talk. Like in my personal opinion, I'm not sure how much that qualifies for self-hosting because it's not self-hosting, right? You are entrusting a blockchain, you are entrusting a decentralized man in the middle. It is a man in the middle even though it's decentralized. Even if it's verifiable. Now I'm not talking about a Akash specifically, but in my opinion, even if you're hosting your node on a decentralized cloud, you are still hosting on a decentralized cloud. And here is a period, in my opinion, like a full stop. It's never going to be the same. So that's just my personal opinion. But I would love to hear people that actually run a Akash nodes. Triggs?
+
+Yeah, I don't run it an Akash Node, but I just wanted to mirror some of your thoughts and expand on it from my perspective. I think there's decentralization is one aspect, right? That's really important for validators and nodes. But like you said, self hosting is a very specific thing. And in my mind, one of the key components of self hosting is that you have keys to the building that the infrastructure is in. You have control over the room that the infrastructure is in. You can control access to that room. So.
+
+Citizen Web3 (12:36.354)
+when you're using Akash, you don't have that control. So you're missing out those necessary components. It doesn't mean that running Akash nodes isn't valuable. It just doesn't check the same boxes as the self-hosting does. I agree. One comment I would put on there too, I don't have any experience running stuff in Akash, but I have been interested in this topic before. So based on what I've asked about in the future and learned is that
+
+It's suffice for running your sentries themselves, but you do not want to have any of your signing material in there. So for example, if you're doing software signing and you're not using a remote signer, I would probably not run that in Akash just because that person would be able, my understanding is they would have physical access to that storage and they would be able to get your consensus key. But if you're using a remote signer and you have the capability of using their sentries for the cheaper compute access, which is what
+
+really highlights that is offering cheap compute. And I don't know a lot about the reliability of it, like if it's guaranteed to always be up, because I thought it kind of worked on like a bidding system. If someone outbid you or if someone was not happy with your workload or whatever, it could just kind of go away. yeah, would say as long as you're not putting key material in there, it's definitely worth experimenting with.
+
+I agree on that guys. would actually, if anybody has any more thoughts on Akash, because if not now that Dan started to speak, I now suddenly have the best topic to talk about, because I remember the Dan's voice and it's just been boom. No, if not, I would propose another topic guys, like not to change from Akash, but just as another additional topic today to talk about one huge thing, because he started to talk about remote signers. And this is a huge thing we, as a self-hosted validator,
+
+didn't even think about and now we are tackling. So what happened is when we started the migration, we kind of migrated most of our nodes at one point. Now it's almost everything migrated, only what we don't want to migrate is not migrated. But anyways, and what we realized was because we use Horcrux, obviously, and this is how Dan Dan, you reminded me of this topic. Thank you, by the way, for Horcrux. It's an amazing piece of software.
+
+Citizen Web3 (14:50.19)
+What we realized was that we are now lagging and we cannot get a normal ping with anybody because on most networks, most of the nodes are where? In Germany. hint, hint, wink, wink. So what's happening is that we basically had to think of a solution of how to create virtualization, virtual networks, where we could put one of our signers, for example, physically in the same location as the node, then create some virtual network.
+
+where it would connect to the other signers, then have another server for trafficking Hetzner. We still didn't finish it, by the way, which would also be in the same network and which would basically allow us to have virtually the same ping as the other nodes that are being hosted in Hezner. Now, I don't know if anybody else has tackled anything like that, guys. Anyone has ever?
+
+had this problem when you self -host that you have a worse ping than everybody else on the network? And how do you guys tackle that? If you do.
+
+Citizen Web3 (15:56.802)
+Quick question. I don't know if you see Marco in the waiting list, but I was messaging him. He hasn't been able to pop up. He might have some insight on this question. He's dealt with that too. No, I don't see him for some reason, Triggs. I don't see him. only see there's nobody on my list for some reason right now. I just told him to leave and rejoin. Yeah, please. Please. Yeah. but does anybody in here like from the self -hosted validators went as far as...
+
+starting to having to create virtual networks in order to battle the ping? So I can speak a little bit from our experience at Strange Love. So most of our stuff is in the US, but there are some chains that do require that we deploy in other locations like a DYDX. Sometimes you can have good luck if you are with a really good data center, where they can handle a lot of that networking aspect for you. Where if you say, hey, I have some compute stuff here in the US, like our signers, but we want it to have good latency to these sentries that are running over in Asia. And a lot of times they have, I forget what it's called, it's called DAC, think, D -A -C. I don't remember what it stands for. But basically, they have all these relationships with big network providers throughout the world globally. And they can give you prioritized routes, that can help you minimize that. 
+
+So if you are in a data center and you're having bad latency, I would definitely encourage you to chat with the data center providers to see about getting better latency to specific locations, because that can often be solved through route tables. But other than that, we haven't had many issues with our remote signers on chains, unless they're extremely fast. So I think we've had a little bit of trouble with the SEI blockchain, just due to its sub -second block times.
+
+When it's co-located all in the US, it's no problem.
+
+Citizen Web3 (17:54.584)
+That makes sense. This is one thing we didn't think about, by the way. I didn't think about talking with the... Sorry, Girnaar. Do you want to end it soon? Yeah, Am I Audible?
+
+Yes, yes, yes, I can hear you. Yeah, we can hear you. Awesome. No, I think this problem just resonated with us a lot because we based ourselves in a data center in India. And I don't think anyone does that. Everyone's either in the US, or as you exactly said, wink wink, or everyone's in Europe. But this is a slightly longer term solution. The one thing that we did was we tried to convince a few of our friends, other validators, to co-locate in the same data center were interested in doing some bare metal stuff because A, we could get a better deal and second is it actually helped the ping. But yes, the challenge is exactly right that if you're the only one setting up in a data center that's away from where everyone else is, the ping suffers. And the one quick solution was exactly what we did is we put up a sentry in Europe and we put up all over the other machines of sentries in India and we created like just a faster route between our sentry in Europe, vis-avia this, basically meaning just whitelisting our entire setup in India only to that sentry so that that sentry pretty much directs traffic there. But we don't have experience with what Dan did with the SEI. I think that's where probably the setup will break. So probably the only way to do it is just convince a few friends to come over with you. Just don't go alone.
+
+And I'll say one more final thing on that. One other thing that Horcrux allows you to do, it allows you to elect the leader of who you want to be like the primary signer. So if you do want to spin up one signer and have it be co -located next to your Asia or India location, you can basically have that signer be like the primary one, which will minimize a lot of latency.
+
+Citizen Web3 (20:04.908)
+Am I the only one that Dan cut out for? I was also cut out. yeah, Dan, we can hear you now, think. Dan? sorry about that. Yeah, you cut out a little bit about the world's data center. OK, yeah, I don't remember exactly where I left off, but I'll just say it again real quick. Thanks. I was going to say one of the other things, in addition to just electing a Horcrux compute as a leader, close to the sentry that has the best chance of proposing. 
+
+You can also make sure you're on the right version of Horcrux, because Andrew's done a lot of improvements in making Horcrux fast. I think we've done a 20x improvement in the latency as far as how much compute time it takes. It does nothing regarding the network latency. That's not something that's in the control of Horcrux, but we've sped it up to, I think, sub 5 milliseconds for any kind of transaction after version 3. So if you are on an older version, consider upgrading, and you'll notice a huge performance improvement, as long as your network latency is good.
+
+Nice. So just to summarize, like for anybody listening to this recording, I don't know if you are and you want to self-host, so there's two potential solutions here apart from talking with the data center with tree and Twitch and Horcrux. There's also a social solution, right, to ask your friends. I never thought about it, by the way, like to have a social solution in terms of finding another validator and saying, hey, let's make a cluster over here or over here, but it's cool, I guess.
+
+Yeah, what about failover guys? I don't know if anybody still has any thoughts on the latency, but what about failovers? Has anybody here like work like to self-host? I'm talking about people that self-host of course, mainly because people I guess in data centers, if you have bare metal, don't really, I don't know, but I don't remember asking me myself as a validator ever caring about what internet my validator is gonna use while it was in a data center. Of course, now that it's self-hosted.
+
+Citizen Web3 (22:10.734)
+you know, like we have broadband, we have a Starlink and we even thinking, we were even thinking, but there's no point now because we still can't get the failover to work 100 % like we want to. To add the third, like your mobile ISP, sorry, I lost the word there for a second in English, to one of the main like devices and networking devices which could then act as a third failover.
+
+I'm going to be honest with you, for us, it's been a bit of a nightmare, the failover. Maybe we are not enough experienced. I would assume that that's one of our issues, of course. And when we look for a solution, we have to go and research it a lot. What about anybody else? Is anybody else here who self-hosting has worked with setting up a failover? Especially with Starlink, I mean.
+
+Yeah, so still for some reason can't get Marco in, but I'm just speaking on his behalf. have our setup. have I don't know what X is rugging in it won't I guess let him through. But on our system we have multiple fiber lines, so we have redundancy there and then we have the 5G backup. We haven't done the star link jump yet, but so far the 5G failover has been working for us for a backup if either of the fiber or both the fibers go down.
+
+The thing is like for us the Starlink also switches on, but we have been having issues, you know, with setting it up for us has been a big like there is no documentation. For example, when you go online, there is no search for I'm a validator and I want to set up Starlink as a spell over thing. You know, there is no forum information about it. It's something that you have to like go and really like Twitch, you know, and yeah, I guess with fiber it's good as well, but it is working. It's just a pain in the ass, you know, like actually going and doing it and then actually setting it up properly. And, you know, you always like, I don't know about like you guys, whoever else has like Triggs, for example, I don't know about you. But for me, like, I don't know, I always have this sensation that, you know, when I look at it and when it's set up, the failover is working. But when I'm not going to be here and, you know, something is going to happen, it will definitely not work. This is what I have.
+
+Citizen Web3 (24:28.206)
+And on that note, think like one more topic that I wanted like to mention briefly and ask everybody what they're doing is, more for self -hosting, is distant management of the nodes. And of course, right now, for example, something I didn't know, but it's a simple thing, but I was not aware of it as a person who was not like 100 % in it.
+
+For example, I was not aware that power distribution units, the modern ones, have the distance access management. So basically everything that is connected to them, it's not only got alerts to your email, it doesn't only explain to you how much electricity a specific socket is using, but you can also reset it, what is the most amazing thing. And I know it sounds so simple, but it just was not a thing in my head until I started to do it. what about?
+
+Anybody else? Does anybody else has like any tweet tricks or any cheat codes for managing equipment for distant self-hosted validators where you need to do something? I don't have a great anecdote on that specific tips and tricks, but kind of related to that, tangentally when you're talking about the power thing, had an interesting kind of related to the failover thing too, not just internet failover, but also your power failover.
+
+So we had a major power outage in the area where our data center is and our backup system was a diesel generator, but there were like noise restrictions during certain hours in the area that, you know, the equipment was housed. And so we couldn't run the diesel generator 24 seven. And so it introduced this new issue with the power backups. And now we have additional battery backups that can last long enough to get through those quiet windows and stuff. I'm sorry. I'm laughing. I'm laughing here. I was on mute, but I was like, there is that thing done. So you were going to also mention something. yeah. So I'm also in a data center that's about nine miles from my house. And one of the really cool things about the data center. So, well, first of all, I work with two different companies. So I work with Strange Love, but for my own company, Defiant Labs, I have a data center about nine miles from my house. And the cool thing about this data center.
+
+Citizen Web3 (26:51.094)
+And something that might be interesting if you're trying to pick out which data center you want to move to is the one that I'm in houses a lot of medical hospital kind of stuff. So it has a lot of attention to it and has, if there's a power outage that happens, they have the diesel that kicks in. And they can sustain this kind of stuff for months on diesel. It's just, I don't remember how many gallons or hundreds of thousands of gallons or whatever it is, but.
+
+co -locating somewhere where there's critical infrastructure will also give you the benefit of some of that availability that is primarily geared towards them, but you just get to inherit it from being in that same data center as them. But yeah, there's all sorts of interesting conversations around high availability that I think we could talk about because you can do it at so many levels. I like to run stuff in Kubernetes, which gives them like fun high availability stuff with just doing replica sets. So even if you are in one data center and you have one server, you can still have high availability at the Kubernetes level with doing multiple replicas. But then you can also take it the next level where now you have two servers in the same data center that are high availability. You could have one server in two different data centers. So there's all sorts of different levels of high availability that you can achieve. But I definitely think it's very important to have at least a level of high availability. So because a lot of times the tooling has to be configured differently when you introduce high
+
+Citizen Web3 (28:27.864)
+Dan always keeps falling off at the best, most interesting places he's talking about. Am I back right now? think when my screen times out, it kills my microphone. That's what I'm guessing. So I'm just going to keep my screen active. You were just saying about the importance of high availability. Yeah. Did I go into all the different ways to have high availability, like Kubernetes, data center, geographic? You started it. Yeah, you started with that. OK.
+
+Yeah, the last point that I was trying to make on that was that I would encourage everyone to at least have a level of high availability, because a lot of times the tooling for working with high availability compute requires some configuration changes. So for example, if you're doing software signing and you're not doing a remote signer, high availability is very difficult, because you can't have two sentries that have the same prevale key both attesting to the same thing, because you'll get a double sign and you'll get slashed.
+
+So you need to do an architecture change where you need to know, hey, I need to open up two different listeners for the remote signers. I need to make sure remote signers are both connected to these. So I would highly encourage everyone to at least be highly available at one location just to get the tooling in place. And then as you grow, as you get more delegations, as you can afford to really ramp up your high availability, you'll be much more set to scale without having to do a full re -architecture.
+
+That makes sense. Thank you. I actually made some notes already while you guys are talking. So like I was saying, the goal of this space is really to learn from each other. And I know I'm making notes. don't know about you guys. Sorry, anybody else? Sorry, I was going to say something. Yeah, I actually had a question for this larger group. And speaking of tooling there, so it is actually a very funny topic because you really don't know whether whatever you've done works till it actually breaks. So I think it goes back to the question that someone else also asked before us, how do you kind of test this? Is there tooling that introduces HA scenarios, breaks stuff on purpose, and so that you can know that it works? I'll just give one anecdote. We essentially had two switches in our rack, just to make sure that if one goes down, it switches to the other one, and internet connectivity should take care of itself, because of course, the data center takes care of the connectivity to your rack. Everything inside the rack is
+
+Citizen Web3 (30:51.256)
+your responsibility, right? And we were all set. But when shit hit the fan, it didn't work. And we had to ask for remote hand support for the guys who just go and do it. And then the guys have nothing but just touched the switch and it came up live. I can't wait for another moment like that because what if it doesn't work the next time it just touches the switch? So just trying to go around the room to figure out if people actually done some testing, are there tools that can help us measure?
+
+Is there any drills that we can do here?
+
+Techno Freak, were also going to say something, You were also going to add something, Sergey? Hi, Jan. Hi, can you hear me? Yes, perfect. Awesome. So basically, wanted just to add two things. So first of all, I hosting all my validator stuff at home, not like in the data center stuff. So and also it's quite cheaper to just build like a PC instead of a proper server solution. So...
+
+If you are doing things like this, I heard about the cool thing. I haven't introduced it yet with my setup, but I really want to just code PIKEVM
+
+, which is basically like an IPMI. Like I seem to basically manage the server, like power it on or off, or I don't know. You can just erase it and just read style from this thing. It's called PIKEVM. It's basically like a Raspberry Pi with some tweaks. So I think it might be useful to some of you. I definitely want to introduce it later into my setup.
+
+And also for myself, am also now having just one ISP, but I want to expand it way further. And that's why I bought a router that's called Ubquiti G Machine Pro. It allows you to have two ISPs and set up a of a frame over between them. So if one is down, then it will switch over to the other ISP and some kind of load bouncing between them. Hope you find it useful.
+
+Citizen Web3 (32:50.728)
+By the way, Serge, just a small note from self -hosted to self -hosted. OpenWrt, I don't know how to pronounce it in English correctly, but OpenWrt and P -Absence have amazing features for setting up failover. Of course, not on every single router. You have to look at their forum to see which router flashes very well. And also, one thing.
+
+For example, I made the mistake, I didn't look at the amount of memory that the OpenWRT application uses and I use like an old router that could support OpenWRT. But then when I installed originally the failover thing, it didn't work properly just because the router was too old, it didn't have enough memory. So this is just one thing that I can say about that for sure.
+
+I was just going to add that PF Sense is awesome. I think it's really important to have a firewall in your architecture, even just to block all the unwanted traffic on the WAN from even reaching your stuff. And PF Sense does a great job. You can install it anywhere. They also make reasonably affordable appliances that come with PF Sense already pre -installed.
+
+Citizen Web3 (34:31.593)
+No, I just wanted to say, but then everyone trumped me. Say it all. So, PFSense is a much more easier thing, unless you WRT, because PFSense can be installed on literally any device, like an old PC or thin client, and you can...
+
+increase the numbers of your ports with a single network internet card and any device will become like enterprise router. I don't know if it's also like worth saying like for example in our setup now we have we have all of them we have PF .sense we have openwrt we have it's basically what we realized that we came to
+
+because of personal security cockroaches and privacy cockroaches, at least in my head, basically what we realized that we did onion routing by using all those devices, we basically created a very complex structure. I don't know if we over -complicated it, and this is yet for us to be seen. We still only a couple of months that we are fully testing it. We've been doing for six months, but...
+
+Fully Fully is like two months, maybe Sergei here from TechnoFreak has a lot more experience in self -hosting at home. But for us, creating this kind of thing, I don't know if it was the correct thing, but I do actually wanna go back to the topic of if it's okay, at least to ask a question. People were talking, especially in data centers, having, I think it was Girnaar, think it was...
+
+you who was saying about people actually checking the equipment. This was the question. Does any of you go as far if you self -host as having an emergency plan? Like, I don't know, maybe people who have a closed data center and host there, like, for example, what happens if the data center does not switch on your servers? I mean, do you actually sit down and create a proper emergency plan or it's just in your head? I can say on my own behalf, I would say...
+
+Citizen Web3 (36:50.798)
+Because I also had quite a few emergencies because I had two cases like in November when my ISP went out for like 36 hours or so. So I had to kind of improvise. have most of the, for most of the chains I'm validating, I have a public infrastructure. So I just shut down physically all of my servers and move it back there. And then once my ISP was back, I was like, okay, I'm moving it all back. So that was kind of it.
+
+So that's my kind of emergency plan. Basically, out of improvisation, I would say, and stuff like, okay, this happened now, so I need to migrate. So no emergency plan as it is, but yeah, basically that kind of shows that it's really important to have some other nodes located in different data centers. So if your main one goes down, you can migrate easily. And I'm not doing it like in Kubernetes or something because I think if you're hosting a validator, it's like...
+
+It shouldn't be like multiple replica sets or something because it's quite dangerous I would say to host it like that. It's just me being paranoid I'm not sure. But point is I am the one to manage it all manually. So if something goes down I first say I will be the first one to know and then I would be able to just migrate it temporarily until the issue is resolved.
+
+So one point in terms of a disaster recovery that I think helps out a lot too is just picking up automation skills. Make sure that you know things like Terraform, make sure you things like Ansible, so that if your primary location does go down and it's of your control, you can quickly spin back up. If you're on like one or two chains, it's not too rough to just manually build them. But if you're operating in like many chains, automation is crucial for being able to do disaster recovery to like a new location quickly.
+
+Yeah, exactly. I just want to add that, basically before that, before I learned Ansible, I was just doing it all manually. A bunch of like, at least five servers or something. You don't want to do it over and over again because it's like really boring. And because I'm really lazy, on term lazy, I want to automate stuff. I just put a bunch of effort to build a bootstrap, build a set of playbooks to bootstrap everything with one command. So yeah, if an initial server goes down, you're like, okay, fuck it.
+
+Citizen Web3 (39:12.14)
+I can just redeploy it in five minutes or so using Ansible. Yeah. So look, some of really effective.I really encourage everybody to use it. Yeah, and the other really nice thing is that most Cosmos chains, tolerate some level of downtime. So really prioritize getting back up correctly rather than getting back up fast. Because if you prioritize speed and trying to minimize your downtime, it can lead to human error mistakes where you
+
+Typically, you have between 8 to 12 hours on a lot of these chains to get back up before you even start to get penalized for unavailability slashing.
+
+Citizen Web3 (39:47.534)
+By the way, regarding Zeta, was wondering if anybody was using an active setup. I mean, you have two validators that are signing simultaneously and only one of these is signing for me. Sounds like a really dangerous thing. Better safe than sorry, but I wonder if somebody else has such an experience here. This was a big thing back in 2017 with Beepos, with Beatshare and stuff. I don't know if people still do that. I don't think so.
+
+I think Horcrux kind of took away the need for that, no? Yeah, definitely. So Horcrux gives you the mix of doing the high availability, where you can run three remote signers, three sentry nodes, and they all are kind of like meshed together, where any two of them can go down and you can still, sorry, any two of the signers can go down and any two of the sentries can go down and you can still sign. And as long as the Horcrux cluster instances can still communicate with each other, which we usually do over like an IPsec VPN,
+
+As long as they can communicate, they handle the state management to ensure that a double sign doesn't happen. It will figure out which one of your sentries is available to send the signed message to to get it broadcasted.
+
+Citizen Web3 (41:00.14)
+Yeah, I would say just now I kind of yeah, sorry I was just going to say I am kind of sad that I'm using team KMS now because it doesn't allow like setting multiple interests of food to sign simultaneously. Because for Horcrux I think it's like really more robust tool I would say because like this team KMS right now it's my single point of failure so if it goes down I the chains will go down as well. I hope the guys have plans to improve it and so now yeah it's like a single point of failure so far. Horcrux is more robust.
+
+Actually the same... Yeah, go on, Girnaar, go on, please. We agree, I think we also do the exact same story where we have automated mostl of our failover to different setups via Ansible. Just one extra step that we have gone is we actually done it through Semaphore. I don't know how many of you guys use it. But we find it quite useful because on Semaphore, I can have those battle -tested scripts, which I know won't fail.
+
+and there is no space for human error. And I can actually create multiple users. So when I'm asleep and someone from my team in another part of the world is available and awake, all they will do is press a button and the migration happens. And I know they can't screw it up because it's meant to just do that. And if then something continues to go wrong, then that's when they wake me up. So it's good from a team management perspective.
+
+as a next -level automation through Ansible, if there are tools like these that can be brought in. Talking about... No, go on, go on, on, Serge, please, please, guys, interrupt me, please. I was going to ask, if Semaphore is basically Ansible UI, right?
+
+Citizen Web3 (42:48.846)
+Correct. So pre -built templates, Ansible UI, tested, you have run history, and most importantly, team management. So you can only give specific access to specific people. for example, you have a teammate or a colleague or a friend who you want to entrust to if you're traveling, saying that if something goes wrong, this is what comes up. Just go, log in here and press this button. And if the logs still don't look OK, then give me a call. So you could do some of that stuff too so that you're not on the hook all the time.
+
+You're only human, You can't be on the hook all the time. I was also wondering if you have some tooling for incident management, like PagerDuty or something, but that's a bit off topic, but seems a bit related, I would say. I was just going to say that ZenDuty does save. We use ZenDuty. We use our own inventive method of monitoring, and we're still trying to improve it.
+
+Where we do use ZenDuty and where it's very helpful, it's like PagerDuty. It's sending an alarm to your phone, even if your phone is on silent. So it overrides all of your things. In the middle of the night, you hear this. So you wake up. if not, at least we don't use the rest of ZenDuty for their other things. We don't actually set anything up there. Well, we do.
+
+But basically we mainly use them just for that alert and signal to wake us up in case something happens and that's been very useful. Pager Duty has the same, think, because it has a mobile application and it can send you push notifications, not even using SMS or something. And it can also override the silent mode. So it will just scream at you unless you fix your stuff. Unless you really die. I don't want to look at the node. I'm dead.
+
+Is that Zen? Z -E -N? think Ali, what's ZenDuty, right? Yeah, ZenDuty, correct. Zen Duty, yeah. Zen -E -N, yeah. Z -E -N, yeah, Zen Duty. It's been a cool thing because it's free, right? I don't think we are paying anything for it. In the free version, you can have up to five people. And... Yes, free version is quite enough. Yeah, you don't need... have even 100 calls and SMSes if you want to set it.
+
+Citizen Web3 (45:12.782)
+Yeah, so unless like your setup is, you know, unless it's not very good and you have more than 100 calls per month, but you probably shouldn't have more than 100 emergency calls per month. Because you can also twitch the settings, what is an emergency call, right? Like on any other one, like PageDuty and ZenDuty. But once again, like to me, at least because of the privacy, I decided that like, and together with Ali, you know, we came, at first it was my decision and then we can do the conclusion together that we don't want to use
+
+all of the other features because they go too much into our setup. So basically we just use them for alerting and that's it. We use a combination of Twilio++ but yeah, this sounds easier, we will explore it, thanks. Does anybody have any other by the way tips on monitoring and alerting? yeah, I know that like again during the last six months of trying to explore this topic
+
+I can tell you that I know, for example, there are validators here who have different, completely different monitoring setups. And of course, part of what we started to do was we took it from the people who were teaching us. And then we slowly started to like, you know, listen to, look, sorry, look what other people do and try to take the best parts of that implemented to ourselves. I, sure, if somebody right now asked me what is one of the most...
+
+uncertain parts of the self -hosted setup that you guys have, I would say that it's monitoring and alerting. On one hand, I'm talking about we will, but on the other hand, for example, it happens all the time because now we have like 25 networks or something like that. Today, it was the first time it happened in two months, but it happened that one of our test validators was already unbonding for two days.
+
+It was really like a new new network for us. We didn't notice there was nothing that went, the node was working fine, but something happened and nothing was coming. And a good thing, of course, it was a testnet validator. But does anybody have any tricks here, any tips for monitoring, alerting for self -hosting and bare metal? Or in general? I would say Prometheus search Grafana is the best way to go. Also, like for me, I'm using Prometheus both for alerting and for collecting metrics.
+
+Citizen Web3 (47:33.75)
+and Grafana to visualize all of this and write some fancy dashboards about it. So yeah, this one is really cool. And also as for myself, I built like, really love data visualization and just drawing dashboards in Grafana. So I built a bunch of exporters that I use for my own, for example, for analyzing like how our validators behaving and stuff. So yeah, you can also check it out at our GitHub.
+
+on github .com slash forecasting. Pretty sure you will find something interesting there, but yeah. But for me, Prometheus with Grafana is the best way to go, because it's really not that hard to set up, and it's really like the standard of monitoring, I would say, everywhere. you have... No, no, go on Girnaar. I told you, interrupt me, guys. They always interrupt me. I'm just speaking if I think nobody else is speaking, but I'm making a mistake all the time, so please interrupt me, please. No, no. So I think we use...
+
+We started using a lot of ELK stuff, things like Loki. And I don't know how much you guys use that because that gives a little bit of a pre -indicative issue. So for example, general issues are first caught in logs. And it's hard to monitor logs constantly. But the ELK tools seem to be quite powerful in actually doing good reg ex and then triggering alerts. But I'm just trying to learn from the group too.
+
+Has anyone taken that to the next level? And how powerful have they made it? Yeah, actually ElasticStack, think it's called ElasticStack now because it also has Beats now. So it's not AOK, but ElasticStack. yeah, it's really awesome. As for myself, I have two working systems, I would say. First, of course, is ElasticStack. And it's really cool because it's extra powerful and extra resource consuming, I would say. But still, it allows you to search for literally everything. And the other one.
+
+I'm using right now is Promtales slash log key and like it's, I would say limited a bit. It's really useful that you can see it in one place. So as I'm using also Grafana's and Prometheus for monitoring and metrics, I can just write a dashboard that will display the logs of my full node and also its logs. So I can make sure like I see some anomaly and I say, okay, something is going wrong here. And I can see, I can zoom in and see the logs during the period.
+
+Citizen Web3 (49:59.256)
+So it's really useful for that. I would say using two of the systems if you can afford it is also nice. Yeah, you said you have built some adapters and a question in the get, right? Is that something you can share? I mean, we'd to kind of see, learn from some of that of how we actually expand on the data or analyze the data.
+
+Now, Serg, please answer. It was for you. I was going to ask you to elaborate because I didn't get the question. Anu, you said you actually probably built some more adapters at your end to analyze that information better, faster, right? If I heard that right. And you pushed it in your git.
+
+Actually not quite. I have a bunch of my exporters which are providing some metrics as a form of a tool to consume what's flowing and just passing it as JSON and just storing it. I was gonna, I don't know if I want to put people on the spot, but bro, I don't know if you want to talk a little bit about your monitoring because you were originally the person who was teaching us how to do it. I don't know if you guys...
+
+This was years some time ago, probably you guys have something interesting. I'm not going to put you on the spot, but if you want to talk about it, it would be interesting to hear because I know you... Yeah, go on. Well, you know, I just cannot add anything about what the guys said. We're still sitting on this Grafana Prometheus stack here with alerts to where we're comfortable with. So, I mean, nothing super...
+
+super super here. Gotcha. I know that, example, I have a... Yeah, please, please, please, please. No, go on, go on, Yeah, yeah, yeah. I'm going. I was going to say that I have like two or three different monitoring tools, but, you know, sometimes like on my phone, I got like hundreds of different notifications. So...
+
+Citizen Web3 (52:10.048)
+Sometimes things can slip. So every day, before I'm going to bed, I do something like they do in aviation, pointing and coding. And I go on every note and I make sure that it's making blocks. And I have a Grafana pull for that. And so I'm going to point there and say, okay, Juno is online.
+
+Evmos online and so on. And it's the only thing really reliable that it's really making sure that you're signing blocks. There's also one more thing. I just remember it. I think many of you should know this tool. It's called TenderDuty, where you can easily monitor that your validator is actually signing and it also supports alerts to Telegram and other services. I was just going to add that if TenderDuty is down you would never know so it's also nice to monitor TenderDuty as well.
+
+This was my, my, I was always saying in general, it's kind of useful to monitor your monitoring as well. For example, if you are using Prometheus, you can just create two instances of Prometheus and monitor each other. So in case one is down, would have, you would know that it's down. Because otherwise, like if your monitoring system is down, you would never know. I was going to say the same pretty much thing as Serge was going to say, but I want to, was going to say it with a question. Is there a point at which, you know, because like I said, you know, we were
+
+Like from what Ali is saying, you can probably guys guess and what I'm saying that we have is in ZenDuty, tender duty, Grafana, we use a lot. So the question is like this, do you guys think that there is a point where you overdo your monitoring where you have too many, like because you guys were saying, you're already receiving hundreds of notifications there, there, there. I have to go check it before I sleep. At which point, sorry, do you know that you're overdoing your monitoring and alert system? Like when do you stop?
+
+Citizen Web3 (54:30.606)
+When you can't sleep anymore at night. Yeah, I was just going to say the same. As long as you're reaching some level of them and you know that you don't care about, you get woken in the middle of the summer and then like 3 am, you just, there is enough. There's no wages. You just need the one monitoring to rule the all.
+
+What is even sleeping? Sleeping is overrated guys. Yeah, validators don't sleep here. Okay, I get it. Okay, no, this is another thing, right? I mean, when you host everything in a cloud, you get more sleep for sure. I and then even though like, you know, I have anecdotal stories where, you know, the fuck ups when you host in the cloud before, we used to hold it in a cloud would happen in the most...
+
+know, an unpredictable days as usually they do, you you still get a lot more sleep definitely when you host in the cloud. when, I mean, mean, the only thing is that you get more sleep over when you self host is of course, or when you have bare metal, I guess, and you host it in a friendly data center is that you have the keys to your own citadel, right? Like you know that only I can enter here and nobody else can enter here. So.
+
+I think for me that's the number one sleep thing, so that gives me more sleep. And... Except there were when your devops didn't forget to switch off an app to save it. Okay. One other aspect of monitoring... Sorry. Can I interrupt? Sure. I was just going to add that it's really nice to have a monitoring stack in the cloud and not self -hosting because if you are self -hosting everything at home...
+
+Citizen Web3 (56:27.754)
+and your ISP would go out or something or there's the power outage or something, you would never know. That's one of the reasons I'm hosting my monitoring stack in the cloud. It doesn't store anything like valuable because it doesn't have validator keys and stuff, but yeah. And also it's better to host it into different data centers and make it high availability and stuff. Dan, I'm going to pass it to you. I'm just going to say something to Serge here and to everybody else. We actually have a solution to this shit. We invented a solution to this.
+
+invented. I'm joking of course, we don't reinvent the wheel. But right now we are planning to do a very crazy thing. We are planning to migrate our monitoring here locally. It's going to be hosted on raspberry devices probably. And the trick is give it different power supply. It works on green energy which is connected to a battery.
+
+which has enough time to run that Raspberry for a very, very, very, very, very, very fucking long time. Even if my second generator runs out of gasoline, that Raspberry will still probably run. So we did solve it like this. Sorry, Dan, go on, please. You were going to say something there. yeah. No, I was just going to say that I agree with what most people are saying, especially about having your monitoring stack run externally and using external trusted reference nodes.
+
+But the other aspect that we haven't really talked about on monitoring, and I'm curious how many people are in this position where they have teams that are larger than one, is actually training people, coming up with creating run books, going through incident scenarios that will help you get some sleep. The first couple of years that I was doing this by myself, I was not sleeping much at all. But then when I started investing into cross -training, documenting all the different processes, teaching people how to...
+
+do these same things that are very repetitive and that don't take a lot of time to train on, that will also give you more opportunities to sleep.
+
+Citizen Web3 (58:31.02)
+I totally agree here with you and I also want to add one more thing. So it's not from the crypto experience, but also from a programmer experience because I worked in a top one Russian search engine. And one of the main parts of the internal cultures was discussing incidents afterwards. And it's really, really, really important to write a detailed postmortem and especially write down the points that you are doing to prevent stuff like this from happening ever again. Example, if you have an end outage,
+
+Like if your ISP is down, like one of the action items might be to just introduce a new one and use a failover or something. So like learning by doing, so if you are having something that is broken, you now know, you now can think of a way to make it better next time so it won't have, so it would never happen again. And I would really love to, that every validator, like most of them, will just write postmortems if they got jet or something because it's really cool.
+
+to hear more of these stories like that and learn from others mistakes so you would never repeat them by themselves.
+
+Citizen Web3 (59:38.862)
+Sorry guys, I was just answering a message and I realized it was the message and related to this to the somebody was commenting the Whisper Nodes was commenting that had to run. Yeah, and by the way, like, is there anything because for example, this is something we do have a team bigger than one. And this is something we haven't actually done yet. We haven't yet invested into what would you say was the start here with with trying to share it with with the other team members? How would you?
+
+Would you just create some basic roles and start teaching them about looking at certain hours at a certain dashboard or something like that? How would you go about it? So I can tell you about our experience recently. So we just grew our infrastructure team at Strangelove, adding on two more people. And what it kind of looks like is, so we use a tool called Ops Genie, where people have an assigned day that they're on call for 24 hours. And the new members as they come in,
+
+they usually pair with a more senior member for the first month or so of their on -call thing. So very first thing in the morning is we go through all the monitoring dashboards. There's like eight different dashboards, validator monitoring, full node monitoring, relay monitoring, node health monitoring, just all the different things, just making sure you are all aware of where to look to find out the health of everything so that you can identify problems before they become alerts. Because you really want to try to
+
+get ahead of this stuff rather than just constantly firefighting. You want to be aware. Know when upgrades are happening. Know that they're prepared and staged so that they can execute. then, yeah, whenever there is something coming up, we just pair with people. So I think pairing is a big part of the education. And then having the person who was pairing with you do the initial documentation. They'll be there taking notes like,
+
+hey, this is how I do a chain upgrade. I got to know what height it happens at. I got to make sure Cosmovisor is installed, or I have to make sure I'm using the Kubernetes operator that had the version support. And then you, as like the mentor, you kind of go through and you review the runbooks. You provide your feedback on them. And then you hand that runbook to someone else. And you'd be like, hey, attempt to do this following only the runbook. Pretend you know nothing else. Find out if it's suffice. And really get your documentation high quality.
+
+Citizen Web3 (01:02:00.898)
+And then as you scale and grow your team, those documents become very valuable resources. Sorry. I don't think. Sorry, just one second. Whoever raises hands, please just request and I will give you a big search. Please carry on.
+
+Citizen Web3 (01:02:18.84)
+Yeah, I was going to say that I agree with Dan a lot. And also one of the nice places to start basically would be to just if you have some person who is who wants to be like an on -call engineer to react accordingly if something is broken, it would be really nice. Like this person is really like a newbie. And if this person has some issues and doesn't understand what is required from them or how to fix this and this person cannot just go.
+
+into the runbook and just fix it. That means basically the documentation is outdated or misleading or something or it's not obvious generally. I would say mostly a runbook should be as easy as they can and as thorough as they can. So even a person who didn't work with it in any way can just look into them and understand easily what's going on and how to fix it.
+
+Because if you are quite experienced one, it's really easy to just lose focus because you know a lot of stuff, but some other people who are onboarding do not know this. And yeah, it should be like easy to understand for even somebody who doesn't have any experience with fixing stuff like that. I guess the run book in this case is basically, you know, the emergency plan. Well, I was talking, of course, about, you know, emergency things like
+
+Well, but it doesn't matter, right? What emergency you put in your run book, right? I guess this is what I was talking about, plans. And it could be non -emergency too. For example, if there is a IBC client that has a lifetime of 300 hours, and you notice that it is down to 200 hours, you still have days to respond to it, but there should be a run book for that. It'd be like, hey, what do I do if I see a client is not updating and it starts to go? And it will say things like, you go sesation of the node.
+
+You do relay TXQ client expirations. You find out, I even see these? Understanding the relationship between the relays and the RPC servers that they depend on. Knowing how to do different commands. If it expires, what do I do? Know how to do a substitute client proposal. So you should have runbooks for everything, not just for emergencies. IMO. Yeah, exactly. Exactly. I was just going to add that, yeah, exactly. That's what Dan is saying. So runbook is basically not just like an emergency plan.
+
+Citizen Web3 (01:04:37.134)
+It's just a sequence of actions that you have to do when something is happening. Something shouldn't be even critical. Maybe, like for example, if your server has 85 % of disk space allocated, then you have to rethink it at some point. But yeah, basically sequence of actions that you have to do and it should explain why you have to do it and how should you do it. So yeah, exactly what Dan was saying. Max, I see you want to say something. Please.
+
+That's cool idea. Is there something public like that already that we can kind of all share and contribute? Ha! Checkmate! Checkmate! That's it! Checkmate, Max! Well done! Good answer! Actually, interesting. I'm just asking this openly. By the way, Dan loved the idea of pairing. I think I'm going to use some of that here at Grinaar.
+
+But the one thing I've seen that's the big challenge with most folks is the creation of runbooks because it does take a lot of effort. And most of the time when you're firefighting, you actually focus on the problem and when you're done with it, you just want to go and move to the next thing. So the quality of runbooks actually suffers. One thing that we are trying at our end, it's a little early though to call it out, is that we actually attached a small agent to most of our
+
+folks' DevOps terminals, which just simply just what the guys is, it just keeps on monitoring what you're doing. It just keeps on recording, right? So if you actually go ahead and say, assistant your terminal to try and solve, say, the same problem, the sequence of events, I think that Techno was speaking about, which is saying that this is how we access the chain, this is how we increase the disk size, this is how we check the disk size, blah, blah, blah, blah, blah. It just records those commands. So the only thing that person has to do after he's done doing it is just put comments next to it, and it goes straight into the knowledge base.
+
+But the quality still is not like 100 % there. Basically, just getting knowledge out of people who know the experts for them to document it right still seems to be a problem. Has anyone solved for that? I will say that I love the idea of shared knowledge. But I know a lot of teams also have specialized knowledge that doesn't apply to everyone. For example, Strange Love does most of our stuff inside Kubernetes. We have our own exporters. So a lot of that stuff.
+
+Citizen Web3 (01:07:02.296)
+wouldn't apply to the way that most people do setups. But one potential idea, I just learned about this yesterday during the Dora Hacks hackathon presentation. Tendermint Timmy was presenting Interchain info. I don't know if you guys have seen this website. It's pretty cool and has a lot of information on it. But I thought it'd be cool to start putting some generic documentation on there, things like version mappings for different chains, how to install like
+
+different oracles, just common things that maybe people struggle with that are very generic in Cosmos and not like specialized to individual company setups. Can I just say guys, if, if, because with Tendermint Timmy and if, anybody is out of here is ever going to, to, to decide to do a public, to jump, even if it's going to be ourselves a run book for everybody else to contribute, I would say that's at least what comes to my head now that it's very important.
+
+that it can be automatically updated because in my opinion, the Documentation that has to be manually updated, for example, even if it's a run book and then something in that run book has to be exactly the same for everybody today and in half a year time, well, of course things change, right? But it cannot change like all the time. would say that that's also pretty probably in my opinion, very important for such a run book that those things are stable and I don't have and...
+
+Sometimes you're like, and then you have to go and read another pile of documentation just to understand what you just did. And you definitely don't want to encourage people to just copy and paste run books blindly because one malicious run book could cause a double sign for you. just focusing on education and all that kind of stuff is just as important as good documentation.
+
+Yeah, that's, that's kind of what I was thinking. If there's a place where we can all contribute to something, but not in a specific way, like we don't want to kind of pigeonhole people into one platform that they use to do this stuff, but just a general procedure on say, what do you, what do you do if this happens? What do do if that happens in a very general way? And then they can apply that to whatever system that they're already using just as a, kind of a procedure, right?
+
+Citizen Web3 (01:09:15.084)
+I guess GitHub here would be the best solution. I don't know, it's a version system that would just allow you to fork and Twitch whatever you need to Twitch. Yeah, exactly.
+
+Citizen Web3 (01:09:32.311)
+Sorry guys, you went over each other Max and then said Max do want to finish or search? Do you want to start? Go on, go on, go on, go on. I will go after you. no, I was just saying like something, something in the, in the line of like the chain registry where it's just kind of a joint own thing between whoever a bunch of validators, whoever wants to do it. And we can all contribute to it. We can have, just a centralized kind of database that is not controlled by one, one person, but it's all kind of just general info that we can all use.
+
+we can all pitch in with.
+
+Citizen Web3 (01:10:06.146)
+Yeah, I totally agree with you here. I would say GitHub pages is one of the nicest things that can be done about it. For example, if it's some static website that basically serves as a documentation platform that everybody can contribute. I would say I definitely agree with people who said it before me that it should be not overly specific because in my opinion it shouldn't specify exact versions of the software you're running.
+
+or stuff like that because it's too specific and it's chain specific, not the general approach. yeah, something like GitHub Nations would be a nice way to... I agree, because chain specifics are a big thing. like, you know, we mostly... A lot of the people, at least in this call, for example, a lot of them are somehow to do with Cosmos. I think actually everybody right now on this call has got something to do with Cosmos. But I've already started to tackle because of Validator Info we are building and stuff like that.
+
+As we progress, started to realize that, well, it's not that I, it was like, it was not like an opening, right? I knew about it, but I never just tackled it. That of course there was chain specifics. And I think that is also something that, for example, when you go to Polkadot and you're to Horcrux and suddenly launching like vault somewhere on one of the Polkadots, you're like, okay, so now I'm gonna split my key. No, you're not.
+
+you're not gonna split your key. There are tools that are still being tested though and they're not the same. So there are a lot of chain specific, which I think in a run book like that has to be somehow included, but I have no idea how you would include that. But I guess for monitoring, it doesn't matter, right? I it's not about, it's not that so. Yeah. I would also say also that it's really, would be really cool if it wouldn't be not only like a GitHub pages resource, but also like a community.
+
+We have here now a community, but it would be nice to have a chat or something with validators in all chains that want to share the best practices and stuff. So not like doing this specific call, for example, but a chat that you can join at any time and ask for some problem. if you have some general problem, like how do you keep your keys secure, so people can share their experience and discuss. I would say it would be really awesome.
+
+Citizen Web3 (01:12:26.422)
+nice to have this if it wasn't here already. Yeah, that would be really cool. And I think like, there's a lot of this knowledge is kind of hidden away because these guys like even the huge validators like Everstake and the Chorus One and stuff, the guy that actually runs the validator is just like a normal dude, like, like any of us. I've talked to a lot of them and they're really cool. They're really knowledgeable. But I think they get they kind of like, are a little bit shy to share that stuff because they're they're kind of representing their brand.
+
+But I think if we could push that in a way that's kind of just no branding, no chain, no, no, like specific entity, it's just a bunch of guys that like to do this stuff and like to share info and help other people do it just as well. Guys, I want to cut out a little bit here because I think, and I started notice that a lot of people are probably after the hour started to fall off. I love the people who are talking as well as well. So I started to fall off. So I'm assuming people.
+
+and you know, I limited to some time, but just to like wrap it up, sorry, to resume, not to wrap it up, sorry, to resume everything that was said. So first of all, I don't know about anyone else, but me, I've made like quite a bit of notes, to be honest, and I'm not talking about to do something, I'm talking about to change tools and stuff like that, to read, to go research. So it's been very fucking useful. I wanna like thank from the bottom, like really, really, really, I was gonna be dramatic and say from the bottom of my heart, right? But that was automatic, I'm sorry. I'm not gonna be dramatic, just thank you.
+
+That's one. Two, would definitely want to say, Serge, from what you were saying, this is exactly why we wanted to do this. Because at Citizen Web 3, I speak to validators. I've been validating running some, like I said, DPOS nodes myself from 2016, 17, 16 even. And of course, the experience I had then was nothing. So I've started to relearn everything in the past two, three years.
+
+You know, definitely our goal was to create such a community where people can definitely come and it doesn't matter if, you know, if it's somebody from Ever Stake answers of somebody from a smaller team, like, you know, like from, you know, Basement Nodes or whatever, or, it doesn't matter. That's what I noticed from speaking to validators over the last four and a half years is that, you know, really doesn't matter if you Stake Fish or if you're P2P or if you're running a one person setup.
+
+Citizen Web3 (01:14:48.204)
+There is no difference. It's really the same problems, the same issues that everybody tackles. I would love to, we would definitely at Citizen Web3 participate. And one of the ideas of doing this with Web3 Society was to focus on that because validators are a big focus for us in general. Guys, to kind of like, I know that a lot of people have left. I see because of the time, I can promise an hour, but just to...
+
+Again, wrap up, guess. And of course, everybody is welcome to add any thoughts to what I'm going to say next. But my idea was like this. apart from all of the topics we discussed briefly, of course, but we did. I think that the Run Books idea was one of the biggest ideas, least in my opinion. I would love to participate. don't know if I will wait a couple of days to see if anybody jumps on and starts, if not.
+
+I will try to start something. I'll tell you, I have no experience in that, but if I do, will go and annoy you in private, especially the guys who are talking the most about it, to come and jump on and help. So I can start that if anybody wants to join or start it themselves, I will be happy to jump on 100%. Apart from that, I can tell you that the idea for those calls, we do have a community, which we did the Web3 Society for that.
+
+But the idea for those calls, because self -hosted and bare metal validators are super busy, like even more busy than normal validators, I did notice it, at least in my experience. Or the idea, we're going to host these calls not very often, not once a week, not even once a month. We were thinking once in five slash six weeks. So we can, because we do a lot of other things and it's very difficult for us, but if anybody else wants to jump on and help.
+
+please contact me in DMs and we can talk about. But I would say that once in five, six weeks is more than enough. This was a tryout to see if we can gather this community, this interest, and it seems that we can. It seems that there is cool ideas coming up from that, like the run book thing. Yeah, this is me finished guys, so please feel free to jump on and say anything or if you want to speak and you don't have permission, please raise your hand and I will give you permission to speak.
+
+Citizen Web3 (01:17:11.394)
+Yeah, then I have a question for you. What do you think of you leading the effort of creating a community to share the knowledge? I can. I can. I can. I already kind of signed up to that. So I think I will do it. I said, if I don't see anyone, I will like, know, breathe out like a day. If nothing happens by, I don't know, Friday or something like that, I will. I will try to champion that. Thank you for entrusting that into me. But I will come to you guys on private and annoy you.
+
+the guys who were the most loud, I will say, hey guys, come, you know, come remember, come help. So I will do that. Yeah. And I know I was late, but I have no problem helping out. You just have to reach out because I have so many stupid things that I don't want to do, but I need to do. you reach out, I will help whenever I can. So nice. Okay guys. So the plan is like this. I'm going to first of all, publish because there is a recording.
+
+I'm going to do a transcript of that. So it will take like probably until the end of the week for me to publish the recording and do the together with a transcript. It'll be quicker, but just, you know, I'm just giving it days in case something happens. And then I will start working on what we talk about and yeah, come to all of you. Thank you guys. Thank you for participating and thank you for showing the interest and actually leading the interest in my opinion. So I really want to thank everybody who joined and spoke.
+
+and listened as well. Thanks guys. Do you think we a Telegram chat? Yes, yes, I did. I did. I did. And I will write to everybody who was here. I will write. I promise guys. I will follow this up. I will write. I promise. I already created a Telegram chat. So I will follow up and send everybody like a link to join who wants to jump on. I promise.
+
+Thank you guys, have a lovely evening, good morning, good afternoon, wherever you are. Bye bye guys. Have a night.
+
