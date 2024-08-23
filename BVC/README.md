@@ -1,6 +1,7 @@
 # BVC
 
-## [Runboook](https://bvc.citizenweb3.com/)
+## [Read Runboook](https://bvc.citizenweb3.com/)
+## [Edit Runbook](https://github.com/citizenweb3/web3-society/tree/gitbook)
 
 ## Episodes
 1) Episode 1. 22 August 2024:
