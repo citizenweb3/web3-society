@@ -17,12 +17,13 @@
 
 ## Community
 
-* [Useful links](community/useful-links.md)
+* [B.V.C. Spaces](community/b.v.c.-spaces.md)
+* [Useful Links](community/useful-links.md)
 * [About us](community/about-us.md)
-* [AI Generated Validator Jokes](community/ai-generated-validator-jokes.md)
 
 ## Feeling Stuck?
 
 * [FAQ](feeling-stuck/faq.md)
 * [Common Failures](feeling-stuck/common-failures.md)
 * [Tips and Suggestions](feeling-stuck/tips-and-suggestions.md)
+* [AI Generated Validator Jokes](feeling-stuck/ai-generated-validator-jokes.md)
