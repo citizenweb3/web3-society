@@ -27,3 +27,4 @@
 * [Common Failures](feeling-stuck/common-failures.md)
 * [Tips and Suggestions](feeling-stuck/tips-and-suggestions.md)
 * [AI Generated Validator Jokes](feeling-stuck/ai-generated-validator-jokes.md)
+* [Resources](feeling-stuck/resources.md)
