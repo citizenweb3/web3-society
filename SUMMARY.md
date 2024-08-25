@@ -18,3 +18,11 @@
 ## Community
 
 * [Useful links](community/useful-links.md)
+* [About us](community/about-us.md)
+* [AI Generated Validator Jokes](community/ai-generated-validator-jokes.md)
+
+## Feeling Stuck?
+
+* [FAQ](feeling-stuck/faq.md)
+* [Common Failures](feeling-stuck/common-failures.md)
+* [Tips and Suggestions](feeling-stuck/tips-and-suggestions.md)
