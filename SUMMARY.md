@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Where to start](getting-started/startpoint.md)
+* [TL;DR](getting-started/startpoint.md)
 
 ## Basics
 
