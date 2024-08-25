@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [TL;DR](getting-started/startpoint.md)
+* [Follow the White Rabbit](getting-started/startpoint.md)
 
 ## Basics
 
@@ -13,7 +13,10 @@
 * [Select your Server](basics/images-and-media.md)
 * [Networking](basics/networking.md)
 * [Monitoring](basics/monitoring.md)
-* [Power Supply](basics/power-supply.md)
+* [U.P.S.](basics/u.p.s..md)
+* [P.D.U.](basics/p.d.u..md)
+* [Cables and co...](basics/cables-and-co....md)
+* [Server Cabinets](basics/server-cabinets.md)
 
 ## Community
 
