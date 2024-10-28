@@ -5,6 +5,8 @@ We highlight the importance of such qualities as: lack of tribalism, meaningful 
 
 Our experience, gathered over the last decade of building communities in the crypto space, outlines the need for ambassadors and their incentives, for the successful development of any good degen community. They are truly, the main force carrying web3 values into the universe, which in turn, helps to shape Citizen Web3 as a project, while achieving the mission to carry good into the web3 space.
 
+> Welcome: `Web3 Squires`!
+
 ## Ambassador Goals:
 1) Shilling:
    - [CW3 Podcast](https://www.citizenweb3.com/episodes)
