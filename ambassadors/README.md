@@ -1,12 +1,9 @@
-## Web3 Society Ambassador program planning doc
-
-UNDER DEVELOPMENT
+## Web3 Society Ambassadors
 
 ### TL;DR 
-At Citizen Web 3, we highlight a web3 without tribalism as our dream and goal, across various ecosystems within the blockchain space. Education, knowledge sharing and communication are essential to making that dream come true. As part of our project, Citizen Web3 decided to create `Web3 Society`: a place where tribalism isn't an issue. A place where anyone can share and find info about crypto technology, latest developments in consensus algorithms, DeAI news, 
-open source hardware and software innovations, etc - without thinking of what token the information relates to. 
+We highlight the importance of such qualities as: lack of tribalism, meaningful education, knowledge sharing, communication, lack of enforcement - amongst the many, that are essential to making the dream of a decentralized, and a free web3, coming true. `Web3 Society`: is a community created by [Citizen Web3](https://www.citizenweb3.com/) to pursue that goal. A digital space where you can share and find information about crypto technology, latest developments in consensus algorithms, DeAI news, open source hardware, software innovations, memes and more. All without worrying to what token this information relates to.  
 
-As part of Citizen Cosmos, we run an ambassador program for over 12 months. The programs goals weren't outlined and ambassadors were left acting at own discretion. Incentives were rewarded on a regular basis, once per month.  The goal of this document is to outline that community and outline incentives for its ambassadors. The main force carrying web3 values into the universe. Create dynamic rewards, outline goals and tasks that will benefit Citizen Web3 as a project.
+Our experience, gathered over the last decade of building communities in the crypto space, outlines the need for ambassadors and their incentives, for the successful development of any good degen community. They are truly, the main force carrying web3 values into the universe, which in turn, helps to shape Citizen Web3 as a project, while achieving the mission to carry good into the web3 space.
 
 ### Goals:
 - podcast shilling
