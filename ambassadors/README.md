@@ -1,56 +1,45 @@
-## Web3 Society Ambassadors
+# Web3 Society Ambassadors
 
-### TL;DR 
-We highlight the importance of such qualities as: lack of tribalism, meaningful education, knowledge sharing, communication, lack of enforcement - amongst the many, that are essential to making the dream of a decentralized, and a free web3, coming true. `Web3 Society`: is a community created by [Citizen Web3](https://www.citizenweb3.com/) to pursue that goal. A digital space where you can share and find information about crypto technology, latest developments in consensus algorithms, DeAI news, open source hardware, software innovations, memes and more. All without worrying to what token this information relates to.  
+## TL;DR 
+We highlight the importance of such qualities as: lack of tribalism, meaningful education, knowledge sharing, communication, lack of enforcement - amongst the many, that are essential to making the dream of a decentralized, and a free web3, coming true. `Web3 Society`: is a community created by [Citizen Web3](https://www.citizenweb3.com/) to pursue that dream. A digital space where you can share and find information about crypto technology, latest developments in consensus algorithms, DeAI news, open source hardware, software innovations, memes and more. All without worrying to what token this information relates to.  
 
 Our experience, gathered over the last decade of building communities in the crypto space, outlines the need for ambassadors and their incentives, for the successful development of any good degen community. They are truly, the main force carrying web3 values into the universe, which in turn, helps to shape Citizen Web3 as a project, while achieving the mission to carry good into the web3 space.
 
-### Goals:
-- podcast shilling
-- validator shilling
-- validator info shilling
-- web3 society telegram channel shilling 
-- web3 society telegram content. Activity is more importnat here than anythign else.
+## Ambassador Goals:
+1) Shilling:
+   - [CW3 Podcast](https://www.citizenweb3.com/episodes)
+   - [ValidatorInfo](https://validatorinfo.com/)
+   - [CW3 Validator](https://www.citizenweb3.com/staking)
+   - [B.V.C.](https://bvc.citizenweb3.com/)
+   - [Web3 Society](https://github.com/citizenweb3/web3-society)
+2) Social Media Management:
+   - Contributors to [W3S X account](https://x.com/W3_Society)
+   - Admins in [W3S Telegram group](https://t.me/web_3_society)
 
-### Web3 society ambassador incentives:
-- Payment in tokens of availability end of month from one of CW3 validators nodes
-- Make a vault with basket of tokens for validator available. Use for sponsoring paid activities by ambassadors + bonuses (future control via dao)
-- Create second DeFi vault (dao control)
-- % for delegators - how? Input a memo when delegating? Magic txs?
-- bonuses for other activities (future merch or Decentraland activity) (help with giveaways, events, etc)
-- Future DAO token bonuses
+## Incentives:
+1) Current:
+   - Monthly dynamic grant. In tokens of availability
+   - Referral % for delegations. Via special memo (at request)
+   - Bonuses for other activities, such as: internal docs, merch, virtual worlds, giveaways, events, etc (at request)
+2) Future/Planned:
+   - Token vaults. To sponsor activities
+   - DeFi token vault for ambassadors only. DAO control
+   - DAO bonuses 
   
-##### Dynamic reward levels:
-A) Level 1, 0-45:
-1. 2 tweets per week with interaction 
-2. 2 comments per week under others people's posts (influencers? devs?)
-3. Add relavant content to web3 society telegram channel  | THIS IS A MUST - WIHTOUT THIS POINT COMPLETED, YOU WILL NOT QUALIFY FOR ANY REWARDS | 
+## Dynamic Rewards:
+A) Level 1: 0-75 (each completed task will earn you 1 point)
+    - 2 tweets per week, from private account, with interaction, about any of the topics in [shilling goals]()
+    - 2 comments per week, from private account, on relevant posts by influencers with tag of either of the following Twitter accounts: [CW3](https://x.com/citizen_web3), [ValInfo](https://x.com/W3_Society), [W3S](https://x.com/W3_Society)
+    - 1 post per week from [W3S Twitter](https://x.com/W3_Society) according to this [calendar](https://github.com/citizenweb3/web3-society/blob/main/ambassadors/docs/twitter.md)
+    - general activity in W3S Telegram group: 1–2 links per week, comments on other material, new members, creating lists, new members, other activity
 
-B) Level 2, 45-85:
-1. 2-3 original (not copied or reposted) memes per month. Can be AI generated
-2. Spread around social media at own discretion, but publicly verifiable if needed
-3. Extra / Additional provable twitter engagement, with mentions, etc
+B) Level 2: 75-125 (each completed task will earn you 1 point)
+    - 1 original meme per week, posted from personal accounts, related to any [shilling goals]() and tagging either of: [CW3](https://x.com/citizen_web3), [ValInfo](https://x.com/W3_Society), [W3S](https://x.com/W3_Society). AI generated is applicable. Posts should have interaction to earn points
+    - Strong and provable Twitter presence and/or interactions with other accounts, beyond the above-mentioned, with tags and mentions of the relevant Twitter accounts 
+    - Either of: 1 long read posted on Reddit + 2 comments on reedit per months (proof via account history) on relevant topics | 2 meaningful Quora posts per month on related topics 
 
-C) Level 3, 85-125:
-1. Reddit activity related shilling - proof of activity via account history (public) - at least 1-2 posts and 3-4 comments per month
-2. Interaction in TG channels at own discretion 
-3. Comments on appropriate YouTube channels / videos - at least 2-3 per month
-4. At least one meaningful Quora podcast related post per month
-
-D) Level 4, 125-200:
-1. Other activities. Individual bonuses. I.e. own telegram channel with auditory shilling our content in own way (i.e. transcript summary / translation). TikTok or YouTube channel referencing us, etc. Medium / Mirror XYZ / Hacker news articles based on our content. Amounts? 
-
-### Tasks
-- Name: web3 housekeeping / web3 squires
-- Logo
-- Telegram channel order
-- Think of 9 community roles
-- Match Game of Life NFT characters to 9 roles in community
-
-### Roadmap
-- Planning doc (this)
-- Incentives
-- Story preparation (foundation tasks, description, some content, characters images)
-- Ambassador vault
-- DAO
-- NFTs, with cw3 utilty, such as cashback staking and merch aquisition
+C) Level 3: 125-200+ (first 3 tasks earn 1 point each. Last task earns 2 points)
+    - Shilling (mentioning of relevant projects) on social media, such as Telegram, YouTube, Reddit, etc - at own discretion, but publicly verifiable if needed
+    - 1 long read per month, relevant to [shilling goals]() with links to relevant projects on [Mirror](https://mirror.xyz/) or [Medium](https://medium.com/) or [Hacker News](https://news.ycombinator.com/)
+    - 2 comments per month on any governance forums relevant to the [CW3 validator](https://www.citizenweb3.com/staking)
+    - Other activities, such as: running own Telegram groups, TikTok or YouTube channels, blogs, etc (projects with own communities) - which mention (in various forms) any of the CW3 projects
