@@ -8,6 +8,11 @@ Wether you are a developer, founder, staker, validator, user, miner, degen, ape,
 
 To suggest adding a doc, open an [issue](https://github.com/citizenweb3/library/issues), submit a [PR](https://github.com/citizenweb3/library/pulls). 
 
+## W3S docs
+1) [Web3 Squire documentation](https://github.com/citizenweb3/web3-society/tree/main/ambassadors)
+2) [Web3 libraries for various tools](https://github.com/citizenweb3/web3-society/blob/main/docs/web3%20libs%20for%20tools.md)
+3) [Web3 public API/RPC endpoints](https://github.com/citizenweb3/web3-society/blob/main/docs/web3%20public%20api.md)
+
 ## The list
 
 - [Baremetal Validator Handbook](https://bvc.citizenweb3.com/)
