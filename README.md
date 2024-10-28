@@ -1,12 +1,10 @@
 # Web3 Society
 
-[Join W3S](https://t.me/web_3_society)
+> [Join W3S](https://t.me/web_3_society)
 
-*A place for must have connections, docs, tools and guides for roaming the depth of web3*
+*A digital space where you can share and find information about crypto technology, latest developments in consensus algorithms, DeAI news, open source hardware, software innovations, memes, guides, and make connections.*
 
 Wether you are a developer, founder, staker, validator, user, miner, degen, ape, customer, inverstor or any other fairytale creature exploring the web3 universe, you might find this collection of documents very useful. 
-
-We discuss: blockchain, validators, baremetal, POW, POS, DeFi, consencus computing, governance, AI, privacy, the history of money, etc...
 
 To suggest adding a doc, open an [issue](https://github.com/citizenweb3/library/issues), submit a [PR](https://github.com/citizenweb3/library/pulls). 
 
