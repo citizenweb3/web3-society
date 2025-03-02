@@ -2,7 +2,7 @@
 
 > [Join W3S](https://t.me/web_3_society)
 
-*A Community Focused on Helping and Learning to love the Tech. Blockchain Agnositc. Fck Tribalism.* 
+*Web3 Community Based on Values of Decentralization. Learning to Forget Tribalism and Love the Tech. Blockchain Agnositc. Fck Tribalism.* 
 
 A digital space where you can share and find information about crypto technology, latest developments in consensus algorithms, DeAI news, open source hardware, software innovations, memes, guides, and make connections. 
 
