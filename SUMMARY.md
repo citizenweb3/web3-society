@@ -2,9 +2,25 @@
 
 * [Wake up, Neo...](README.md)
 
-## Getting Started
+## Your Validator Journey Begins Here
 
 * [Follow the White Rabbit](getting-started/startpoint.md)
+* Understanding Baremetal Validation
+- What is a baremetal validator?
+- Why decentralization matters
+- Comparing baremetal vs. cloud-hosted validators
+- Cost-benefit analysis
+* Prerequisites Checklist
+- [ ] Budget allocation
+- [ ] Space requirements (rack space)
+- [ ] Network connectivity
+- [ ] Knowledge level assessment
+- [ ] Power infrastructure
+* Timeline & Expectations
+- Week 1-2: Planning & procurement
+- Week 3-4: Hardware setup
+- Week 5-6: Network configuration
+- Week 7+: Validation & optimization
 
 ## Basics
 
