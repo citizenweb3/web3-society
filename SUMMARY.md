@@ -6,24 +6,23 @@
 
 * [Follow the White Rabbit](getting-started/startpoint.md)
 * Understanding Baremetal Validation
-- What is a baremetal validator?
-- Why decentralization matters
-- Comparing baremetal vs. cloud-hosted validators
-- Cost-benefit analysis
+* What is a baremetal validator?
+* Why decentralization matters
+* Comparing baremetal vs. cloud-hosted validators
+* Cost-benefit analysis
 * Prerequisites Checklist
-- [ ] Budget allocation
-- [ ] Space requirements (rack space)
-- [ ] Network connectivity
-- [ ] Knowledge level assessment
-- [ ] Power infrastructure
 * Timeline & Expectations
-- Week 1-2: Planning & procurement
-- Week 3-4: Hardware setup
-- Week 5-6: Network configuration
-- Week 7+: Validation & optimization
+* Planning & procurement
+* Hardware setup
+* Network configuration
+* Validation & optimization
 
-## Basics
+## Select your [Equipment Type]
 
+* Overview / Purpose in the validation ecosystem
+* Key considerations for baremetal
+* Compatibility Matrix
+* Pitfalls: What to avoid and why
 * [Select your Router](basics/editor.md)
 * [Select your Switch](basics/markdown.md)
 * [Select your Server](basics/images-and-media.md)
@@ -33,12 +32,27 @@
 * [P.D.U.](basics/p.d.u..md)
 * [Cables and co...](basics/cables-and-co....md)
 * [Server Cabinets](basics/server-cabinets.md)
+* What B.V.C. members use
+* Real-world performance data
+* Optimization tips
+
+## Tools and More
+
+* Monitoring & Tools
+* Security best practices
+* Blockchain Protocols
+* ValidatorInfo.com
+* [Community Resources and Sugegstions](feeling-stuck/resources.md)
+* Economics: ROI and Revenue projections
+* Electricity cost optimization 
+
 
 ## Community
 
 * [B.V.C. Spaces](community/b.v.c.-spaces.md)
 * [Useful Links](community/useful-links.md)
 * [About us](community/about-us.md)
+* Member Profiles
 
 ## Feeling Stuck?
 
@@ -46,4 +60,3 @@
 * [Common Failures](feeling-stuck/common-failures.md)
 * [Tips and Suggestions](feeling-stuck/tips-and-suggestions.md)
 * [AI Generated Validator Jokes](feeling-stuck/ai-generated-validator-jokes.md)
-* [Resources](feeling-stuck/resources.md)
