@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "citadel",
+    "title": "Innovation in Crypto and Secrets to Success with Anton Pavlutsky and Reena Shtedle",
+    "date": "20 February 2024",
+    "duration": "1:03:45",
+    "tags": ["citadel", "governance", "privacy"],
+    "description": "Anton Pavlutsky and Reena Shtedle from Citadel One discuss making crypto more accessible through validator transparency, user interface improvements, and their non-custodial staking platform.",
+    "url": "https://podcast.citizenweb3.com/citadel"
+  },
+  {
+    "slug": "quokkastake",
+    "title": "Privacy, Motivations and Points of Failure with Sergey Quokka",
+    "date": "15 February 2024",
+    "duration": "54:04",
+    "tags": ["privacy", "quokka stake", "sergey"],
+    "description": "Sergey from Quokka Stake discusses decentralization, privacy in Web3, validator infrastructure challenges, and the importance of maintaining technology-focused values in blockchain communities.",
+    "url": "https://podcast.citizenweb3.com/quokkastake"
+  },
+  {
+    "slug": "bronbro",
+    "title": "Validator Tools and the Importance of Anonymity with the Bros",
+    "date": "8 February 2024",
+    "duration": "57:58",
+    "tags": ["bro_n_bro", "decentralization", "privacy"],
+    "description": "A discussion with the Bros from Bro_n_Bro covering validator tools, decentralization infrastructure, and the critical role of anonymity in Web3 security.",
+    "url": "https://podcast.citizenweb3.com/bronbro"
+  },
+  {
+    "slug": "michaelmessele",
+    "title": "Empathy, Wallets and Communication with Michael Messele",
+    "date": "9 November 2023",
+    "duration": "1:00:04",
+    "tags": ["michael messele", "pillar wallet", "privacy"],
+    "description": "Michael Messele, CEO of The Pillar Project, discusses how empathy in leadership and wallet innovation drive Web3 adoption and user experience.",
+    "url": "https://podcast.citizenweb3.com/michaelmessele"
+  },
+  {
+    "slug": "chrisgoes",
+    "title": "Privacy Semantics, the Conception of Law and Money with Chris Goes",
+    "date": "11 May 2023",
+    "duration": "54:27",
+    "tags": ["chris goes", "privacy", "semantics"],
+    "description": "Chris Goes, founder of the Anoma blockchain protocol, discusses privacy in governance, the nature of money, and how technology can address blockchain governance challenges.",
+    "url": "https://podcast.citizenweb3.com/chrisgoes"
+  },
+  {
+    "slug": "jaya",
+    "title": "Privacy, Drone Strikes and Systemic Corruption with Jaya Klara Brekke",
+    "date": "22 February 2023",
+    "duration": "52:00",
+    "tags": ["decentralization", "jaya klara", "privacy"],
+    "description": "Discussion with Nym Technologies' CSO about decentralized privacy infrastructure, network-layer privacy protection, systemic corruption, and privacy as a fundamental right.",
+    "url": "https://podcast.citizenweb3.com/jaya"
+  },
+  {
+    "slug": "shadeprotocol",
+    "title": "Privacy, Silk and Encryption with Carter Woetzel",
+    "date": "12 January 2023",
+    "duration": "51:36",
+    "tags": ["carter woetzel", "privacy", "stable coins"],
+    "description": "Carter Woetzel discusses privacy-preserving DeFi applications built on Secret Network, focusing on encryption, blockchain trust, and non-traditional stablecoins.",
+    "url": "https://podcast.citizenweb3.com/shadeprotocol"
+  },
+  {
+    "slug": "darkfi",
+    "title": "Digital Dictatorship, DeFi and Social Credit with Amir Taaki",
+    "date": "7 December 2021",
+    "duration": "40:34",
+    "tags": ["amir taaki", "eth", "privacy"],
+    "description": "Amir Taaki, founder of DarkFi, discusses anonymous DeFi, cyberpunks, digital dictatorship, and social credit systems.",
+    "url": "https://podcast.citizenweb3.com/darkfi"
+  },
+  {
+    "slug": "sentinel",
+    "title": "Web3, DVPN and Crypto Branding with Dan Edlebeck",
+    "date": "18 November 2021",
+    "duration": "54:43",
+    "tags": ["dan edlebeck", "dvpn", "privacy"],
+    "description": "Dan Edlebeck explores decentralized VPN technology within the Sentinel ecosystem and crypto branding strategies.",
+    "url": "https://podcast.citizenweb3.com/sentinel"
+  },
+  {
+    "slug": "exidio",
+    "title": "VPN, Costa Rica and the sound of blockchain with Dan Edlebeck",
+    "date": "25 January 2021",
+    "duration": "43:27",
+    "tags": ["dan edlebeck", "dvpn", "privacy"],
+    "description": "Dan Edlebeck discusses Exidio's decentralized VPN solution built on the Sentinel network using Cosmos-SDK and Tendermint.",
+    "url": "https://podcast.citizenweb3.com/exidio"
+  }
+]
