@@ -16,7 +16,7 @@ const Hero: FC<OwnProps> = ({ title, subtitle, variant = 'default' }) => {
       className={variant === 'home' ? 'relative min-w-screen pt-40 pb-10' : 'relative min-w-screen min-h-screen pb-20'}
     >
       {variant === 'home' ? (
-        <Link href="/" className="absolute top-10 left-10 z-50">
+        <Link href="https://citizenweb3.com" className="absolute top-10 left-10 z-50">
           <Image
             src="/logo-full.svg"
             alt="Citizen Web3"

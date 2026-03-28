@@ -17,7 +17,7 @@ export default function Page() {
         <Hero
           variant="home"
           title={'The Freedom Forum'}
-          subtitle={'We Believe Privacy is a Right\nJoin the Fight for Freedom'}
+          subtitle={'We Believe Privacy is a Right - Join the Fight for Freedom'}
         />
         <PrivacySpaces />
         <div className="py-4 md:py-8">
@@ -40,6 +40,25 @@ export default function Page() {
           </div>
         </div>
         <PrivacyPodcasts />
+        <div className="py-4 md:py-8">
+          <div className="max-w-[80vw] mx-auto flex justify-end">
+            <Link
+              href="https://podcast.citizenweb3.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={wideBtnClass}
+            >
+              <Image
+                src="/arrow.svg"
+                alt="arrow"
+                width={12}
+                height={12}
+                className="absolute top-3 right-3 w-3 h-auto"
+              />
+              CW3 Podcast
+            </Link>
+          </div>
+        </div>
         <PrivacyJoinFight />
       </main>
       <SiteFooter />
