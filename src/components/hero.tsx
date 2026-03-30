@@ -16,7 +16,7 @@ const Hero: FC<OwnProps> = ({ title, subtitle, variant = 'default' }) => {
       className={variant === 'home' ? 'relative min-w-screen pt-40 pb-10' : 'relative min-w-screen min-h-screen pb-20'}
     >
       {variant === 'home' ? (
-        <Link href="https://citizenweb3.com" className="absolute top-10 left-10 z-50">
+        <Link href="https://citizenweb3.com" className="absolute top-10 left-[6vw] z-50">
           <Image
             src="/logo-full.svg"
             alt="Citizen Web3"
@@ -33,8 +33,8 @@ const Hero: FC<OwnProps> = ({ title, subtitle, variant = 'default' }) => {
       <div
         className={
           variant === 'home'
-            ? 'max-w-[80vw] mx-auto flex flex-col items-center justify-center gap-6 px-4 text-center'
-            : 'max-w-[80vw] mx-auto flex min-h-[56svh] flex-col items-center justify-center gap-8 xl:gap-32 px-4 text-center md:min-h-[70svh]'
+            ? 'max-w-[88vw] mx-auto flex flex-col items-center justify-center gap-6 px-4 text-center'
+            : 'max-w-[88vw] mx-auto flex min-h-[56svh] flex-col items-center justify-center gap-8 xl:gap-32 px-4 text-center md:min-h-[70svh]'
         }
       >
         {variant === 'default' && (

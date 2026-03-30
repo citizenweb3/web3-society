@@ -21,7 +21,7 @@ export default function Page() {
         />
         <PrivacySpaces />
         <div className="py-4 md:py-8">
-          <div className="max-w-[80vw] mx-auto flex justify-end">
+          <div className="max-w-[88vw] mx-auto flex justify-end">
             <Link
               href="https://staking.citizenweb3.com/"
               target="_blank"
@@ -41,7 +41,7 @@ export default function Page() {
         </div>
         <PrivacyPodcasts />
         <div className="py-4 md:py-8">
-          <div className="max-w-[80vw] mx-auto flex justify-end">
+          <div className="max-w-[88vw] mx-auto flex justify-end">
             <Link
               href="https://podcast.citizenweb3.com/"
               target="_blank"

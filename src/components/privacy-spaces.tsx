@@ -12,7 +12,7 @@ const spaces = [
 
 const PrivacySpaces: FC = () => (
   <section id="spaces" className="py-8 md:py-12">
-    <div className="max-w-[80vw] mx-auto">
+    <div className="max-w-[88vw] mx-auto">
       <h2 className="mb-4 text-left text-2xl font-bold tracking-wide">The Freedom Forum Twitter/X Spaces</h2>
       <div className="w-full h-px bg-white/50 mb-8" />
 
