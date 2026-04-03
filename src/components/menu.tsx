@@ -13,6 +13,8 @@ const menuItems = [
   { title: 'W.3.S.', href: 'https://t.me/web_3_society' },
   { title: 'B.V.C.', href: 'https://bvc.citizenweb3.com' },
   { title: 'Bazaar', href: 'https://www.citizenweb3.com/bazaar' },
+  { title: 'Privacy', href: '/' },
+  { title: 'Agents', href: 'https://agents.citizenweb3.com' },
   { title: 'About Us', href: 'https://www.citizenweb3.com/#about' },
   { title: 'Contacts', href: 'https://www.citizenweb3.com/#contacts' },
 ];
