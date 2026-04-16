@@ -1,0 +1,55 @@
+### TG Chats
+
+- 123 — chat_id: -4962977108
+- Cosmos Network ~ $ATOM — @cosmosprojecttg — chat_id: -1003605250507
+- CosmonautHQ — @cosmonauthq — chat_id: -1001961766803
+- Keplr Wallet 🔭 Official — @KeplrWallet_Official — chat_id: -1001173681951
+- Osmosis Lab $OSMO — @osmosis_chat — chat_id: -1001393698549
+- Staking Rewards Announcement Channel — @StakingRewards — chat_id: -1001138561338
+- Allnodes — @allnodes — chat_id: -1001218203709
+- Allnodes — @allnodes_global — chat_id: -1003583518048
+- Zcash Community 🛡ᙇ — @Zcash_Community — chat_id: -1001317585860
+- Secret Network (SCRT) Community — @SCRTCommunity — chat_id: -1001422953789
+- ⚛️ Cosmos Ecosystem ⚛️ — @CosmosEcosystem — chat_id: -1001230697205
+- Web3 Society — @web_3_society — chat_id: -1001945029410
+- Namada — @namadaprotocol — chat_id: -1001223838362
+- Cosmos Network ~ $ATOM — @cosmosproject — chat_id: -1001127478087
+- LIDO FINANCE OFFICIAL — @LidoFinanceCM — chat_id: -1001190643527
+- EigenLayer Official — @Eigenlayerofficialchat — chat_id: -1001883670421
+- Polkadot Community — @PolkadotOfficial — chat_id: -1001286954524
+- P2P.ORG Community — @P2Pstaking — chat_id: -1001196715072
+- ROCKET POOL OFFICIAL 🚀 — @RocketPoolx — chat_id: -1002090222777
+- 🤝 Чат 🚀 Читер в Cosmose — @cosmos_chiter_chat — chat_id: -1002135864032
+- DarkFi Chat — @darkfichat — chat_id: -1001828745753
+- HOPR — @hoprnet — chat_id: -1001450477114
+- Eth Staker Official Telegram — @EthstakerTG — chat_id: -1003654500620
+- Stereum Support — @stereum — chat_id: -1001841957229
+- Commons Stack — @CommonsStack — chat_id: -1001201746023
+- Junø 🤝 AI — @JunoNetwork — chat_id: -1001468747455
+- Kusama official — @kusamaofficialtelegram — chat_id: -1001351244372
+- Agoric | Russian — @agoricrussian — chat_id: -1001385490946
+- Secret Network — @SecretNetworkTG — chat_id: -1003151801227
+- Uptick Network Community — @uptickproject — chat_id: -1001477498118
+------------------------------------------
+- Cosmos hub Validators: https://t.me/+W1m_790xj28xMThh
+- Cosmos hub official: https://t.me/CosmosOG
+- Cosmos Price spec: https://t.me/AtomPrice
+- Cosmos airdrops: https://t.me/CosmosAirdrops
+- Atom OG chat: https://t.me/atomOGchat
+- Uptick validators (done)
+- Namada top vals (done)
+- Nam/Osmo: https://t.me/namosmo
+- darkfi chat: https://t.me/darkfichat/1
+- Web3 Privacy now comm (done)
+- Build on miden: https://t.me/BuildOnMiden
+- Genlayer: https://t.me/genlayer
+- Atom1: https://t.me/youwillatone
+- Cyber, hall of fame: https://t.me/fameofcyber
+- Cyberia: https://t.me/cybervalleyland
+- Bostrom community: https://t.me/CyberGlobalHub
+- Cyber community: https://t.me/fuckgoogle
+- Axone: https://t.me/axonexyz
+- Stride governors (done)
+- Stride official: https://t.me/stride_zone_official
+- Gravity bridge: https://t.me/Gravity_Bridge_Official
+- Uptick community: https://t.me/uptickproject
