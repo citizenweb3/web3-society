@@ -31,25 +31,25 @@
 - Secret Network — @SecretNetworkTG — chat_id: -1003151801227
 - Uptick Network Community — @uptickproject — chat_id: -1001477498118
 ------------------------------------------
-- Cosmos hub Validators: https://t.me/+W1m_790xj28xMThh
-- Cosmos hub official: https://t.me/CosmosOG
-- Cosmos Price spec: https://t.me/AtomPrice
-- Cosmos airdrops: https://t.me/CosmosAirdrops
-- Atom OG chat: https://t.me/atomOGchat
+- Cosmos hub Validators: https://t.me/+W1m_790xj28xMThh (requested)
+- Cosmos hub official: https://t.me/CosmosOG (done)
+- Cosmos Price spec: https://t.me/AtomPrice (done)
+- Cosmos airdrops: https://t.me/CosmosAirdrops (done)
+- Atom OG chat: https://t.me/atomOGchat (done)
 - Uptick validators (done)
 - Namada top vals (done)
-- Nam/Osmo: https://t.me/namosmo
-- darkfi chat: https://t.me/darkfichat/1
+- Nam/Osmo: https://t.me/namosmo (done)
+- darkfi chat: https://t.me/darkfichat/1 (done)
 - Web3 Privacy now comm (done)
-- Build on miden: https://t.me/BuildOnMiden
-- Genlayer: https://t.me/genlayer
-- Atom1: https://t.me/youwillatone
-- Cyber, hall of fame: https://t.me/fameofcyber
+- Build on miden: https://t.me/BuildOnMiden (done)
+- Genlayer: https://t.me/genlayer (done)
+- Atom1: https://t.me/youwillatone (done)
+- Cyber, hall of fame: https://t.me/fameofcyber (done)
 - Cyberia: https://t.me/cybervalleyland
-- Bostrom community: https://t.me/CyberGlobalHub
+- Bostrom community: https://t.me/CyberGlobalHub (done)
 - Cyber community: https://t.me/fuckgoogle
-- Axone: https://t.me/axonexyz
+- Axone: https://t.me/axonexyz (done)
 - Stride governors (done)
 - Stride official: https://t.me/stride_zone_official
-- Gravity bridge: https://t.me/Gravity_Bridge_Official
-- Uptick community: https://t.me/uptickproject
+- Gravity bridge: https://t.me/Gravity_Bridge_Official (done)
+- Uptick community: https://t.me/uptickproject (done)
